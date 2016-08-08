@@ -1,1 +1,2 @@
-# some practice
+Analyzing prices per city, vendors and etc: [report](https://github.com/aprotopopov/el/blob/master/el.ipynb)  
+Statistical significance with chi-squared: [report](https://github.com/aprotopopov/el/blob/master/Statistical%20significance.ipynb)  
